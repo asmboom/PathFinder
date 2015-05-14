@@ -1,0 +1,8 @@
+Moscow Krasnoyarsk
+Moscow Vladimir 200
+Moscow Smolensk 200
+Moscow Tver 100
+Tver Tula 50
+Tula Krasnoyarsk 20
+Tver Krasnoyarsk 500
+Vladimir Krasnoyarsk 200
